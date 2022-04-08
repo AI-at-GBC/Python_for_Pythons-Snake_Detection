@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>0aa117c4c3f13bf08a6215ab811fa7a7.jpg</filename>
+	<path>/my-project-name/0aa117c4c3f13bf08a6215ab811fa7a7.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Northern Watersnake</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>83</ymin>
+			<xmax>377</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>
