@@ -1,4 +1,4 @@
-# Deep Learning 2-Snake Project
+# Python for Pythons - Snake Detection
 As a prototype for the AI logic behind a mobile application that can be used to detect different types of snakes, we trained different Convolutional Neural Network (CNN) models from the [Tensorflow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) in an effort to benchmark different methods, build a model that works for our purposes, and of course, to learn.
 
 ## Setup Instructions
