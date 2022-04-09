@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>0a211508325ec048c3ebd2de4be6c28f.jpg</filename>
+	<path>/my-project-name/0a211508325ec048c3ebd2de4be6c28f.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Western Diamondback snake</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>39</ymin>
+			<xmax>328</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>0ffffa60e8b093232ff9bb2ba15608c8.jpg</filename>
+	<path>/my-project-name/0ffffa60e8b093232ff9bb2ba15608c8.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Black Rat snake</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>10</ymin>
+			<xmax>243</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

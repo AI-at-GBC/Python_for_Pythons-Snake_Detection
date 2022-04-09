@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>1ef98b02503e2fee8a47719006d57bc6.jpg</filename>
+	<path>/my-project-name/1ef98b02503e2fee8a47719006d57bc6.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Common Garter snake</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>107</ymin>
+			<xmax>366</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

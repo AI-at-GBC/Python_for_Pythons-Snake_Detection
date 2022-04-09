@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>0cc0e64b3347b795e8297fa9d94bbfb0.jpg</filename>
+	<path>/my-project-name/0cc0e64b3347b795e8297fa9d94bbfb0.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>DeKay’s Brown snake</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>25</ymin>
+			<xmax>132</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DeKay’s Brown snake</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>151</ymin>
+			<xmax>384</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
